@@ -1,4 +1,4 @@
-# Program Menampilkan Identitas Diri
+# Program Menyimpan Data Identitas Diri
 
 ## Dibuat oleh: Muhammad Hatta
 
